@@ -1,0 +1,12 @@
+# Request for humans
+requests==2.20.1    
+
+# Web Sraping
+bs4
+
+# Spotify Client
+spotipy==2.4.4      
+
+# Youtube Client for dowload the videos :)
+pytube==9.3.5              
+youtube-dl==2018.11.7
